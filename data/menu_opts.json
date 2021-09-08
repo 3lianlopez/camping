@@ -1,0 +1,15 @@
+{
+    "nombreApp" : "Camping",
+    "rutas" : [
+        {
+            "ruta" : "noticia",
+            "icon" : "web_outlined",
+            "texto": "Noticias"
+        },
+        {
+            "ruta" : "image",
+            "icon" : "Icons.widgets",
+            "texto": "Imagenes"
+        }
+    ]
+}
